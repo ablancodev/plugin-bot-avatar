@@ -186,7 +186,6 @@ GPL v2 or later
 
 ## Créditos
 
-- Desarrollado por: Tu Nombre
 - Three.js: https://threejs.org/
 - OpenAI: https://openai.com/
 

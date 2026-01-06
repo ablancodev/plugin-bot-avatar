@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Bot Avatar 3D Chatbot
- * Plugin URI: https://example.com
+ * Plugin URI: https://ablancodev.com
  * Description: Chatbot con avatar 3D usando Three.js y ChatGPT con respuestas en texto o audio
  * Version: 1.0.0
- * Author: Tu Nombre
- * Author URI: https://example.com
+ * Author: ablancodev
+ * Author URI: https://ablancodev.com
  * License: GPL v2 or later
  * Text Domain: bot-avatar
  */
